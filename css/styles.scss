@@ -1,0 +1,11 @@
+#vat_number_field {
+	opacity: 1;
+	height: auto;
+	transition: opacity 0.3s ease-in;
+}
+
+#vat_number_field.hidden {
+	opacity: 0;
+	height: 0;
+	transition: none;
+}

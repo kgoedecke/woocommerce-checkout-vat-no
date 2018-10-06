@@ -1,0 +1,22 @@
+{
+  "name": "woocommerce-checkout-vat-no",
+  "title": "WooCommerce Checkout VAT No. Plugin",
+  "version": "1.0.0",
+  "private": true,
+  "author": "HaveALook UG",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kgoedecke/woocommerce-checkout-vat-no"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "autoprefixer": "^9.1.5",
+    "gulp-csso": "^3.0.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.1"
+  }
+}

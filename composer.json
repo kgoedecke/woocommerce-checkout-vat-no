@@ -1,0 +1,12 @@
+{
+    "name": "kgoedecke/woocommerce-checkout-vat-no",
+    "authors": [
+        {
+            "name": "kgoedecke",
+            "email": "kevin.goedecke@gmail.com"
+        }
+    ],
+    "require": {
+        "dannyvankooten/vat.php": "1.1.2"
+    }
+}
