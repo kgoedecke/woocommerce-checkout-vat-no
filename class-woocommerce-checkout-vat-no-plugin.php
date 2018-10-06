@@ -1,7 +1,4 @@
 <?php
-
-// require __DIR__ . '/vendor/autoload.php';
-
 if ( ! class_exists( 'WooCommerce_Checkout_Vat_No_Plugin' ) ) {
 	class WooCommerce_Checkout_Vat_No_Plugin {
 
@@ -12,14 +9,6 @@ if ( ! class_exists( 'WooCommerce_Checkout_Vat_No_Plugin' ) ) {
 		 * @var   object
 		 */
 		private static $instance;
-
-		/**
-		 * Slug of the plugin screen.
-		 *
-		 * @since 1.0.0
-		 * @var   string
-		 */
-		protected $plugin_screen_hook_suffix = null;
 
 		/**
 		 * Returns an instance of this class.
