@@ -15,10 +15,15 @@ This plugin has the following features:
 
 If you're facing any issues adding the VAT number field to your checkout process please contact us at [support@havealooklabs.com](mailto:support@havealooklabs.com)
 
+## Build
+
+1. Install composer dependencies `composer install`
+2. Install npm dependencies `yarn install`
+3. Build minified CSS and JS files `gulp scripts && gulp styles`
 
 ## Installation
 
-This section describes how to install the WooCommerce Checkout VAT No plugin and get it working .
+This section describes how to install the WooCommerce Checkout VAT No plugin and get it working.
 
 1. Upload the plugin files to the `/wp-content/plugins/` directory, or install the plugin through the WordPress plugins interface directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
