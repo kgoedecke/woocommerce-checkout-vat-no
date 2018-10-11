@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce Checkout VAT No. Plugin\n"
-"POT-Creation-Date: 2018-10-06 12:39+0300\n"
+"POT-Creation-Date: 2018-10-11 18:44+0300\n"
 "PO-Revision-Date: 2016-02-15 11:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -20,19 +20,27 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: node_modules\n"
 
-#: class-woocommerce-checkout-vat-no-plugin.php:96
-#: class-woocommerce-checkout-vat-no-plugin.php:132
-#: class-woocommerce-checkout-vat-no-plugin.php:141
-#: class-woocommerce-checkout-vat-no-plugin.php:180
+#: class-woocommerce-checkout-vat-no-plugin.php:86
+#: class-woocommerce-checkout-vat-no-plugin.php:122
+#: class-woocommerce-checkout-vat-no-plugin.php:131
+#: class-woocommerce-checkout-vat-no-plugin.php:205
 msgid "VAT No."
 msgstr ""
 
-#: class-woocommerce-checkout-vat-no-plugin.php:97
+#: class-woocommerce-checkout-vat-no-plugin.php:87
 msgctxt "placeholder"
 msgid "VAT No."
 msgstr ""
 
-#: class-woocommerce-checkout-vat-no-plugin.php:180
+#: class-woocommerce-checkout-vat-no-plugin.php:186
+msgid "Error:"
+msgstr ""
+
+#: class-woocommerce-checkout-vat-no-plugin.php:186
+msgid "is not a valid VAT number."
+msgstr ""
+
+#: class-woocommerce-checkout-vat-no-plugin.php:205
 msgid "is not a valid."
 msgstr ""
 
